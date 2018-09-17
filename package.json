@@ -1,0 +1,19 @@
+{
+  "name": "channel-gif",
+  "version": "0.1.0",
+  "description": "Channel Gif will be a GIF TV player with Giphy API calls",
+  "author": "Julie Alary <julie.alary@gmail.com>",
+  "homepage": "",
+  "licence": "",
+  "dependencies": {
+    "react": "^16.5.1",
+    "react-dom": "^16.5.1",
+    "react-scripts": "1.1.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
